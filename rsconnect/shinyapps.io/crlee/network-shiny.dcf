@@ -1,0 +1,8 @@
+name: network-shiny
+account: crlee
+server: shinyapps.io
+bundleId: 334761
+url: https://crlee.shinyapps.io/network-shiny
+when: 1450448352.3293
+asMultiple: FALSE
+asStatic: FALSE
